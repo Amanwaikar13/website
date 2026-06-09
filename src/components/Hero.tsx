@@ -4,7 +4,9 @@ import { Section } from './Section';
 const floatingCards = [
   { text: 'Frontend Developer', emoji: '', delay: 0 },
   { text: 'Coffee + Chai Lover', emoji: '☕', delay: 0.1 },
-  { text: 'Chess Player', emoji: '♟️', delay: 0.2 },
+{ text: 'Reading', emoji: '📚', delay: 0.2 },
+{ text: 'Writing', emoji: '✍️', delay: 0.3 },
+  { text: 'Chess', emoji: '♟️', delay: 0.2 },
   { text: 'Flute Learner', emoji: '🎶', delay: 0.3 },
   { text: 'I Prefer Taking Action Over Sitting Idle', emoji: '🔥', delay: 0.4 },
   { text: 'Passionate About Learning New Things', emoji: '📚', delay: 0.5 },
